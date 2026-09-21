@@ -1,0 +1,18 @@
+node_modules/
+.env
+.env.*
+*.secret
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+npm-debug.log*
+dist/
+build/
+
+# build artifact from the recipe generator - never commit
+image-prompts.json

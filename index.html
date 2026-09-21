@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="המטבח התימני — מתכונים אותנטיים מתימן, בעברית.">
+    <meta property="og:title" content="המטבח התימני">
+    <meta property="og:description" content="מתכונים אותנטיים מהשולחן היהודי-תימני">
+    <meta property="og:type" content="website">
+    <!-- Security policy declared before any resource so it governs them all.
+         style-src allows 'unsafe-inline' for Tailwind-generated styles only.
+         frame-ancestors / X-Content-Type-Options need real headers, which
+         GitHub Pages cannot set - see governance/risk-register.md -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'self'">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+
+    <!-- Self-hosted assets: zero third-party requests. See governance/data-map.md -->
+    <link rel="stylesheet" href="assets/css/tailwind.css">
+    <link rel="stylesheet" href="assets/fonts/fonts.css">
+    <link rel="stylesheet" href="assets/vendor/fontawesome/fontawesome.min.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🫓</text></svg>">
+    <title>המטבח התימני — מתכונים אותנטיים</title>
+
+    <!-- Google Fonts -->
+    <!-- Font Awesome -->
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-ye-cream font-heebo text-ye-charcoal min-h-screen">
+
+    <a href="#main" class="skip-link" data-en="Skip to main content" data-he="דלג לתוכן העיקרי">דלג לתוכן העיקרי</a>
+
+    <!-- Header -->
+    <header id="app-header" class="fixed top-0 right-0 left-0 z-50 transition-all duration-200">
+        <div class="max-w-6xl mx-auto px-4 h-16 md:h-18 flex items-center justify-between">
+            <a href="#/" id="header-logo" class="flex items-center gap-2">
+                <span class="text-ye-primary text-2xl"><i class="fas fa-mortar-pestle"></i></span>
+                <span class="font-playfair font-bold text-lg md:text-xl text-ye-charcoal">המטבח התימני</span>
+            </a>
+            <div class="flex items-center gap-3">
+                <!-- Language Switcher -->
+                <div class="language-switcher">
+                    <button class="lang-btn active" data-lang="he">HE</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                </div>
+                <!-- Back Button -->
+                <button id="back-btn" class="hidden items-center gap-2 text-ye-charcoal hover:text-ye-primary transition-colors text-sm font-medium">
+                    <span>חזרה למתכונים</span>
+                    <i class="fas fa-arrow-left"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="main">
+        <!-- Home View -->
+        <div id="home-view">
+            <!-- Hero Section -->
+            <section id="hero" class="home-hero relative flex items-center justify-center text-center overflow-hidden">
+                <div class="relative z-10 px-4 w-full max-w-2xl mx-auto">
+                    <h1 class="font-playfair text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-3">
+                        המטבח <span class="text-ye-primary-light">התימני</span>
+                    </h1>
+                    <p class="text-gray-300 text-lg md:text-xl mb-8 font-light">
+                        מתכונים אותנטיים מהשולחן היהודי-תימני
+                    </p>
+                    <!-- Search Bar -->
+                    <div class="relative max-w-md mx-auto">
+                        <div class="glass-search flex items-center rounded-xl overflow-hidden">
+                            <span class="pr-4 pl-2 text-ye-primary-light"><i class="fas fa-search"></i></span>
+                            <input
+                                id="search-input"
+                                type="text"
+                                placeholder="חיפוש מתכון..."
+                                class="w-full py-3 pl-4 bg-transparent text-white placeholder-gray-400 outline-none text-base"
+                            >
+                            <button id="search-clear" class="hidden pl-4 pr-2 text-gray-400 hover:text-white transition-colors">
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Category Filters -->
+            <section class="sticky top-16 md:top-18 z-40 bg-ye-cream/95 backdrop-blur-sm border-b border-ye-border">
+                <div class="max-w-6xl mx-auto px-4 py-3">
+                    <div id="category-filters" class="flex gap-2 overflow-x-auto pb-1 scrollbar-hide"></div>
+                    <div id="result-count" class="text-ye-text-secondary text-sm mt-2 hidden"></div>
+                </div>
+            </section>
+
+            <!-- Recipe Grid -->
+            <section class="max-w-6xl mx-auto px-4 py-8">
+                <!-- Screen-reader-only: the cards below use h3, so the hierarchy
+                     needs an h2 here. Hidden visually; the design is unchanged. -->
+                <h2 class="sr-only-heading" data-en="Recipes" data-he="מתכונים">מתכונים</h2>
+                <div id="recipe-grid" class="grid gap-6" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));"></div>
+
+                <!-- Empty State -->
+                <div id="empty-state" class="hidden text-center py-16">
+                    <div class="text-6xl mb-4 text-ye-primary opacity-50"><i class="fas fa-search"></i></div>
+                    <h3 class="text-xl font-bold text-ye-charcoal mb-2">לא נמצאו מתכונים</h3>
+                    <p class="text-ye-text-secondary mb-4">נסו לשנות את מילות החיפוש או לבחור קטגוריה אחרת</p>
+                    <button id="clear-filters-btn" class="px-6 py-2 bg-ye-primary text-white rounded-lg hover:bg-ye-primary-dark transition-colors font-medium">
+                        נקה חיפוש
+                    </button>
+                </div>
+
+                <!-- Loading State -->
+                <div id="loading-state" class="text-center py-16">
+                    <div class="spinner mb-4"></div>
+                    <p class="text-ye-text-secondary">טוען מתכונים...</p>
+                </div>
+            </section>
+        </div>
+
+        <!-- Recipe Detail View -->
+        <div id="recipe-view" class="hidden"></div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-ye-navy text-gray-400 py-8 mt-8">
+        <div class="max-w-6xl mx-auto px-4 text-center">
+            <p class="font-heebo text-sm">
+                המטבח התימני — מתכונים אותנטיים מתימן, בעברית
+                <span class="text-ye-primary-light mx-1"><i class="fas fa-heart"></i></span>
+            </p>
+        </div>
+
+        <!-- Back to Hub -->
+        <div class="py-12 bg-ye-primary/10 border-t border-ye-primary/30 mt-8">
+            <div class="max-w-6xl mx-auto px-4 text-center">
+                <a href="https://robertog62.github.io/recipes-world-hub/" target="_blank" rel="noopener noreferrer"
+                   class="inline-flex items-center gap-3 border-2 border-ye-primary-light bg-ye-primary/25 text-white font-playfair font-bold text-base md:text-lg px-10 py-4 rounded-full hover:bg-ye-primary-light hover:text-ye-navy transition-all duration-300 tracking-wide shadow-lg shadow-ye-primary/20">
+                    <i class="fa-solid fa-globe text-lg"></i>
+                    <span>לעוד מתכוני עולם — חזרה לרכזת המתכונים</span>
+                    <i class="fa-solid fa-arrow-up-right-from-square text-sm"></i>
+                </a>
+            </div>
+        </div>
+
+        <div class="max-w-6xl mx-auto px-4 text-center mt-8 pt-8 border-t border-white/10">
+            <p class="text-sm leading-relaxed max-w-3xl mx-auto mb-5" class="text-white/75"
+               data-en="AI transparency: the recipes and texts on this site were generated and edited with AI tools under human review. They are general guidance, not professional culinary or nutritional advice. Check ingredients against your own allergies."
+               data-he="שקיפות AI: המתכונים והטקסטים באתר נוצרו ונערכו בסיוע כלי בינה מלאכותית, בבקרה אנושית. הם מידע כללי ואינם ייעוץ קולינרי או תזונתי מקצועי. יש לבדוק את הרכיבים מול האלרגיות שלך.">שקיפות AI: המתכונים והטקסטים באתר נוצרו ונערכו בסיוע כלי בינה מלאכותית, בבקרה אנושית. הם מידע כללי ואינם ייעוץ קולינרי או תזונתי מקצועי. יש לבדוק את הרכיבים מול האלרגיות שלך.</p>
+            <div class="flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm">
+                <a href="privacy.html" class="text-white/75 hover:underline" data-en="Privacy Policy" data-he="מדיניות פרטיות">מדיניות פרטיות</a>
+                <a href="terms.html" class="text-white/75 hover:underline" data-en="Terms of Use" data-he="תנאי שימוש">תנאי שימוש</a>
+                <a href="accessibility.html" class="text-white/75 hover:underline" data-en="Accessibility" data-he="הצהרת נגישות">הצהרת נגישות</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <!-- i18n must load first -->
+    <script src="js/i18n.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,3169 @@
+{
+    "recipes": [
+        {
+            "id": "jachnun",
+            "title": "Jachnun",
+            "originalName": "جحنون",
+            "description": "Paper-thin rolled dough baked overnight in a low oven, emerging brown, sweet and yielding.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Dairy",
+            "image": "images/Jachnun.jpg",
+            "prepTime": 40,
+            "cookTime": 600,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "soft samneh (clarified butter)",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Knead flour, sugar, salt and soda with the water into a soft, smooth dough. Cover and rest 30 minutes.",
+                "Divide into 10 balls, coat each in samneh, cover and rest another 30 minutes.",
+                "Stretch each ball on an oiled surface until thin enough to see through — this is the whole craft. Spread with samneh and roll up.",
+                "Pack the rolls tightly into a heavy pot, cover with foil and a lid.",
+                "Bake at 100°C overnight, 10–12 hours, until deep brown and tender.",
+                "Serve with hard-boiled egg, grated tomato and zhug. The samneh makes this dairy — for a parve jachnun beside soup, use oil or margarine instead."
+            ],
+            "tags": [
+                "jachnun",
+                "shabbat",
+                "yemenite",
+                "pastry"
+            ]
+        },
+        {
+            "id": "kubaneh",
+            "title": "Kubaneh",
+            "originalName": "كبانة",
+            "description": "A rich yeast bread baked overnight in a sealed pot and torn by hand at dawn — crisp outside, stranded within.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Dairy",
+            "image": "images/Kubaneh.jpg",
+            "prepTime": 150,
+            "cookTime": 540,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "samneh",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Froth the yeast with sugar and warm water until foaming, about 10 minutes.",
+                "Add flour and salt and knead 8 minutes to a soft, elastic dough. Rise 1 hour until doubled.",
+                "Divide into 6 balls, coat generously in samneh and rise another 40 minutes.",
+                "Stretch each ball into a sheet, spread with samneh, fold into a square and pack into an oiled pot.",
+                "Cover with foil and a lid and bake at 100°C for 9–10 hours.",
+                "Serve hot and tear by hand, with grated tomato, zhug and a browned egg."
+            ],
+            "tags": [
+                "kubaneh",
+                "shabbat",
+                "bread",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "malawach",
+            "title": "Malawach",
+            "originalName": "ملوح",
+            "description": "Buttered dough folded again and again, then pan-fried until it peels apart into leaves.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Dairy",
+            "image": "images/Malawach.jpg",
+            "prepTime": 90,
+            "cookTime": 10,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "soft samneh",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Knead flour, salt, sugar and water into a soft dough. Rest covered 30 minutes.",
+                "Divide into 8 balls and coat in samneh. Rest 1 hour.",
+                "Stretch each ball very thin, spread with samneh and fold into a square in three folds.",
+                "Chill the squares at least 30 minutes — cold dough separates into better layers.",
+                "Fry in a dry pan over medium heat, 4–5 minutes a side, until golden and visibly layered.",
+                "Serve with grated tomato, zhug and a hard-boiled egg."
+            ],
+            "tags": [
+                "malawach",
+                "pastry",
+                "yemenite",
+                "breakfast"
+            ]
+        },
+        {
+            "id": "lachuch",
+            "title": "Lachuch",
+            "originalName": "لحوح",
+            "description": "A spongy, one-sided flatbread from a fermented batter, its whole surface open with holes.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Parve",
+            "image": "images/Lachuch.jpg",
+            "prepTime": 20,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fine semolina",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "3",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Whisk everything into a loose batter the consistency of light cream, with no lumps.",
+                "Cover and ferment at room temperature 1–2 hours until bubbling and faintly sour.",
+                "Heat a non-stick pan over medium heat with no oil at all.",
+                "Pour a ladleful, swirl once, and cook on ONE side only for 2–3 minutes until the surface is covered in holes and the edges lift.",
+                "Lift out while the top is still moist and glossy. Never flip it.",
+                "Stack and serve with zhug, hilbeh or soup."
+            ],
+            "tags": [
+                "lachuch",
+                "bread",
+                "yemenite",
+                "parve"
+            ]
+        },
+        {
+            "id": "sabaya",
+            "title": "Sabaya",
+            "originalName": "صبايا",
+            "description": "Layers of tissue-thin dough soaked in samneh and honey, baked round and cut like a cake.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Dairy",
+            "image": "images/Sabaya.jpg",
+            "prepTime": 60,
+            "cookTime": 45,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "melted samneh",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Knead flour, salt and water into a soft dough and rest, covered, 40 minutes.",
+                "Divide into 8 balls and stretch each as thin as it will go.",
+                "Lay one sheet in an oiled round tin, brush with samneh and a little honey, and add the next. Repeat through all eight.",
+                "Pour the remaining samneh and honey over the top and scatter with sesame.",
+                "Bake at 180°C for 40–45 minutes until deeply golden.",
+                "Cool 10 minutes and cut into wedges. Serve with coffee."
+            ],
+            "tags": [
+                "sabaya",
+                "pastry",
+                "honey",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "fatut",
+            "title": "Fatut",
+            "originalName": "فتوت",
+            "description": "Torn lachuch fried with eggs and onion — what Yemen does with yesterday's bread.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Parve",
+            "image": "images/Fatut.jpg",
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "day-old lachuch",
+                    "quantity": "4",
+                    "unit": "pieces"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": "large"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Tear the lachuch by hand into bite-sized pieces. Do not cut it — torn edges soak up more.",
+                "Fry the onion in the oil over medium heat, 6–7 minutes, until golden.",
+                "Add the torn bread and toss for a minute until it takes up the oil.",
+                "Beat the eggs with hawaij, salt and pepper and pour in.",
+                "Stir 3–4 minutes until the eggs set but stay soft.",
+                "Serve at once with green zhug alongside."
+            ],
+            "tags": [
+                "fatut",
+                "eggs",
+                "yemenite",
+                "breakfast"
+            ]
+        },
+        {
+            "id": "shafut",
+            "title": "Shafut",
+            "originalName": "شفوت",
+            "description": "Lachuch soaked in herbed yogurt — the cold dish that opens a meal on a hot day.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Dairy",
+            "image": "images/Shafut.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "lachuch",
+                    "quantity": "4",
+                    "unit": "pieces"
+                },
+                {
+                    "name": "plain yogurt",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "fresh dill",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "green chilli",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Blend coriander, dill, garlic, chilli and salt into a smooth green paste.",
+                "Stir the paste through the yogurt until it is evenly pale green.",
+                "Chill at least 30 minutes — this dish must be cold.",
+                "Lay the lachuch in a deep dish and pour the yogurt over until covered.",
+                "Let the bread soak for 10 minutes before serving.",
+                "Serve cold. This is a dairy dish and is not served beside meat."
+            ],
+            "tags": [
+                "shafut",
+                "yogurt",
+                "cold",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "zalabiya",
+            "title": "Zalabiya",
+            "originalName": "زلابية",
+            "description": "Fried dough coils plunged straight from the oil into cold syrup — crisp outside, sweet all through.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Parve",
+            "image": "images/Zalabiya.jpg",
+            "prepTime": 90,
+            "cookTime": 20,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar for syrup",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "",
+                    "unit": "as needed"
+                }
+            ],
+            "instructions": [
+                "Whisk flour, yeast and water into a loose batter and ferment 1 hour until bubbling.",
+                "Simmer sugar, water and lemon juice 10 minutes into a syrup. Cool completely — hot dough meeting cold syrup is what makes the crust.",
+                "Heat deep oil to 175°C.",
+                "Pipe the batter through a bag with a small hole in spirals into the oil.",
+                "Fry 2–3 minutes until golden, lift out and drop straight into the cold syrup for 30 seconds.",
+                "Drain on a rack and serve the same day."
+            ],
+            "tags": [
+                "zalabiya",
+                "sweet",
+                "fried",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "bint-al-sahn",
+            "title": "Bint Al-Sahn",
+            "originalName": "بنت الصحن",
+            "description": "\"Daughter of the plate\" — ten buttered leaves baked together and flooded with hot honey straight from the oven.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Dairy",
+            "image": "images/Bint_Al_Sahn.jpg",
+            "prepTime": 70,
+            "cookTime": 40,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "melted samneh",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "nigella seeds",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Knead flour, eggs, yeast, salt and a little warm water into a very soft dough. Rise 1 hour.",
+                "Divide into 10 small balls and coat each in samneh. Rest 20 minutes.",
+                "Stretch one ball until nearly transparent, lay it in a round tin and brush with samneh.",
+                "Layer sheet on sheet with samneh between each, through all ten. Scatter nigella on top.",
+                "Bake at 190°C for 35–40 minutes until deeply golden.",
+                "Heat the honey and pour it over the cake boiling hot the moment it leaves the oven — that is how it runs between the layers instead of sitting on top."
+            ],
+            "tags": [
+                "bint al-sahn",
+                "honey",
+                "festive",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "khubz-hawaij",
+            "title": "Hawaij Bread",
+            "originalName": "خبز الحوائج",
+            "description": "An everyday loaf with olive oil and hawaij, baked hot and torn beside the soup.",
+            "category": "Jachnun & Sabbath Breads",
+            "kosherType": "Parve",
+            "image": "images/Khubz_Hawaij.jpg",
+            "prepTime": 90,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "nigella seeds to scatter",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Froth the yeast in warm water for 10 minutes.",
+                "Add flour, olive oil, hawaij and salt and knead 8 minutes to a smooth dough.",
+                "Rise, covered, 1 hour until doubled.",
+                "Shape two flat loaves, set on a tray and scatter with nigella. Rise another 20 minutes.",
+                "Bake at 220°C for 22–25 minutes until the base sounds hollow when tapped.",
+                "Cool 10 minutes and tear by hand beside soup or zhug."
+            ],
+            "tags": [
+                "bread",
+                "hawaij",
+                "yemenite",
+                "parve"
+            ]
+        },
+        {
+            "id": "marak-temani",
+            "title": "Yemenite Soup",
+            "originalName": "مرق يمني",
+            "description": "The soup everything else answers to — meat on the bone, yellow hawaij, and a long low flame.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Marak_Temani.jpg",
+            "prepTime": 20,
+            "cookTime": 150,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "bone-in beef (short rib or shin)",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "large onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "potatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Rinse the meat, cover with cold water and bring to the boil. Skim the foam thoroughly — this decides whether the broth runs clear.",
+                "Add halved onion, garlic, halved tomatoes and hawaij. Drop to the lowest simmer.",
+                "Cook 2 hours with the lid half off, stirring as little as possible.",
+                "Add quartered potatoes and cook another 30 minutes.",
+                "Correct the salt only at the end — the broth concentrates as it goes.",
+                "Scatter chopped coriander and serve with hilbeh, zhug and lachuch."
+            ],
+            "tags": [
+                "soup",
+                "beef",
+                "hawaij",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "marak-regel",
+            "title": "Trotter Soup",
+            "originalName": "مرق رجل",
+            "description": "Beef trotters simmered five hours until the broth thickens on its own and sets cold.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Marak_Regel.jpg",
+            "prepTime": 30,
+            "cookTime": 300,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef trotters, cut",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "dried chickpeas, soaked",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "litres"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Soak the trotters in cold water for an hour, then scrub and clean them well.",
+                "Cover with water, boil 10 minutes and discard that water entirely. Refill with fresh — this step cannot be skipped.",
+                "Add onion, garlic, the soaked chickpeas, hawaij and turmeric.",
+                "Simmer at the lowest heat 4–5 hours until the meat falls from the bone.",
+                "Correct salt and pepper and skim any collected foam.",
+                "Serve boiling hot with lachuch. What is left sets in the fridge — the sign it worked."
+            ],
+            "tags": [
+                "soup",
+                "trotter",
+                "winter",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "saltah",
+            "title": "Saltah",
+            "originalName": "سلتة",
+            "description": "A beef stew served in a stone pot still bubbling, crowned with a white cap of hilbeh.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Saltah.jpg",
+            "prepTime": 25,
+            "cookTime": 90,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef, cubed",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "potato, cubed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "prepared hilbeh",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "green zhug",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Sear the beef in hot oil over high heat until closed on all sides.",
+                "Add the onion and fry 8 minutes until golden, then the grated tomato and hawaij.",
+                "Add water to cover and simmer, covered, 1 hour over low heat.",
+                "Add the potato and cook 20 minutes more until the sauce thickens.",
+                "Transfer to a stone or clay pot and return to a fierce boil on the hob.",
+                "Crown with hilbeh and zhug while it is still bubbling and bring it to the table in the pot, with lachuch."
+            ],
+            "tags": [
+                "saltah",
+                "stew",
+                "hilbeh",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "marak-adashim-hawaij",
+            "title": "Lentil Soup with Hawaij",
+            "originalName": "شوربة عدس",
+            "description": "Red lentils cooked until they collapse entirely into a smooth, sun-coloured broth.",
+            "category": "Soups & Stews",
+            "kosherType": "Parve",
+            "image": "images/Marak_Adashim_Hawaij.jpg",
+            "prepTime": 10,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "red lentils",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": "large"
+                },
+                {
+                    "name": "carrots, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Rinse the lentils until the water runs clear.",
+                "Fry onion, carrot and garlic in the olive oil for 8 minutes until the onion turns translucent.",
+                "Add the hawaij and stir for 30 seconds — the spice has to meet hot oil to open up.",
+                "Add lentils and water and simmer 35–40 minutes until the lentils have fully collapsed.",
+                "Blend to the smoothness you like and correct the salt.",
+                "Finish with lemon juice and serve with hawaij bread."
+            ],
+            "tags": [
+                "lentil",
+                "soup",
+                "parve",
+                "hawaij"
+            ]
+        },
+        {
+            "id": "ful-yemeni",
+            "title": "Yemenite Ful",
+            "originalName": "فول يمني",
+            "description": "Fava beans coarsely crushed with olive oil, garlic and lemon, served hot in a clay bowl.",
+            "category": "Soups & Stews",
+            "kosherType": "Parve",
+            "image": "images/Ful_Yemeni.jpg",
+            "prepTime": 15,
+            "cookTime": 40,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cooked fava beans",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "tomato, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "green zhug",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Warm the beans with a little of their cooking liquid in a shallow pot.",
+                "Crush about a third with a fork and leave the rest whole — the mixed texture is the point.",
+                "Add garlic, cumin and salt and cook 5 minutes.",
+                "Pour in the olive oil and lemon juice and stir off the heat.",
+                "Turn into a clay bowl and scatter with chopped tomato.",
+                "Spoon zhug over and serve with warm lachuch."
+            ],
+            "tags": [
+                "ful",
+                "parve",
+                "breakfast",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "hareesa-yemenit",
+            "title": "Hareesa",
+            "originalName": "هريسة",
+            "description": "Wheat and meat cooked together for hours until they melt into one thick, savoury mass.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Hareesa_Yemenit.jpg",
+            "prepTime": 20,
+            "cookTime": 240,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole wheat berries, soaked",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "lamb or beef, cubed",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "large"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "2.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Soak the wheat overnight in cold water and drain.",
+                "Sear the meat in oil, add the onion and fry until golden.",
+                "Add wheat, hawaij, cinnamon and water and bring to the boil.",
+                "Cook 3–4 hours at the lowest heat, stirring every half hour so it does not catch.",
+                "Crush against the side of the pot with a wooden spoon until wheat and meat come together as one thick mass.",
+                "Correct the salt, pour hot oil over and serve in deep bowls."
+            ],
+            "tags": [
+                "hareesa",
+                "wheat",
+                "winter",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "marak-dlaat",
+            "title": "Yemenite Pumpkin Soup",
+            "originalName": "شوربة قرع",
+            "description": "Sweet pumpkin balanced by hawaij and lemon, blended completely smooth.",
+            "category": "Soups & Stews",
+            "kosherType": "Parve",
+            "image": "images/Marak_Dlaat.jpg",
+            "prepTime": 15,
+            "cookTime": 40,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pumpkin, cubed",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "green zhug to serve",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry onion and carrot in the olive oil 7 minutes until the onion colours.",
+                "Add the hawaij and stir half a minute until the aroma rises.",
+                "Add pumpkin and water and cook 30 minutes until the pumpkin yields to a spoon.",
+                "Blend completely smooth.",
+                "Correct the salt and add the lemon juice — it is what keeps the soup from turning sweet.",
+                "Serve with a spoonful of zhug in the middle of the bowl."
+            ],
+            "tags": [
+                "pumpkin",
+                "soup",
+                "parve",
+                "hawaij"
+            ]
+        },
+        {
+            "id": "marak-basar-shuit",
+            "title": "Beef and White Bean Soup",
+            "originalName": "مرق لحم وفاصوليا",
+            "description": "Beans softened for three hours beside the meat until the broth turns velvety on its own.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Marak_Basar_Shuit.jpg",
+            "prepTime": 20,
+            "cookTime": 180,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried white beans, soaked",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "bone-in beef",
+                    "quantity": "900",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "2.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                }
+            ],
+            "instructions": [
+                "Soak the beans overnight, rinse and drain.",
+                "Boil the meat in water and skim until the liquid runs clear.",
+                "Add onion, garlic, tomato and hawaij and cook 1½ hours.",
+                "Add the beans and cook another 1½ hours at the lowest heat.",
+                "Salt only at the end — early salt keeps beans hard.",
+                "Scatter coriander and serve with hilbeh and lachuch."
+            ],
+            "tags": [
+                "soup",
+                "beans",
+                "beef",
+                "winter"
+            ]
+        },
+        {
+            "id": "marak-of-hilbeh",
+            "title": "Chicken Soup with Hilbeh",
+            "originalName": "مرق دجاج بالحلبة",
+            "description": "A clear hawaij chicken broth that meets its cap of hilbeh in the bowl, never in the pot.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Marak_Of_Hilbeh.jpg",
+            "prepTime": 20,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole chicken, jointed",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "potatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "prepared hilbeh to serve",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                }
+            ],
+            "instructions": [
+                "Cover the chicken with cold water, bring to the boil and skim carefully.",
+                "Add onion, garlic and hawaij and simmer 45 minutes over low heat.",
+                "Add carrots and potatoes and cook another 25–30 minutes.",
+                "Correct the salt and lift off the fat that has risen.",
+                "Ladle into bowls and only then float a spoon of hilbeh on top — in the pot it would break up.",
+                "Scatter coriander and serve with lachuch."
+            ],
+            "tags": [
+                "soup",
+                "chicken",
+                "hilbeh",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "shurbat-hummus",
+            "title": "Chickpea and Cumin Soup",
+            "originalName": "شوربة حمص",
+            "description": "Chickpeas simmered two hours with cumin and lemon, half blended and half left whole.",
+            "category": "Soups & Stews",
+            "kosherType": "Parve",
+            "image": "images/Shurbat_Hummus.jpg",
+            "prepTime": 15,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried chickpeas, soaked",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "large"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the chickpeas overnight and drain.",
+                "Fry onion and garlic in the olive oil 8 minutes, add cumin and hawaij and stir half a minute.",
+                "Add chickpeas and water and cook 2 hours until a chickpea crushes between two fingers.",
+                "Set a cupful of whole chickpeas aside and blend the rest smooth.",
+                "Return the whole ones to the pot and correct the salt.",
+                "Finish with lemon juice and a thread of olive oil, and serve with hawaij bread."
+            ],
+            "tags": [
+                "chickpea",
+                "soup",
+                "parve",
+                "cumin"
+            ]
+        },
+        {
+            "id": "of-bahawaij",
+            "title": "Hawaij Roast Chicken",
+            "originalName": "دجاج بالحوائج",
+            "description": "A whole bird rubbed with hawaij, garlic and lemon and roasted until the skin golds and the meat lets go.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Of_Bahawaij.jpg",
+            "prepTime": 20,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole chicken",
+                    "quantity": "1.6",
+                    "unit": "kg"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Mix hawaij, garlic, lemon, oil and salt into a thick marinade.",
+                "Rub the bird inside and out, and under the breast skin — that is where the marinade actually works.",
+                "Refrigerate at least 4 hours, preferably overnight.",
+                "Lay sliced onion across a roasting tin and set the chicken on it.",
+                "Roast covered at 190°C for 60 minutes, then uncovered another 25–30.",
+                "Rest 10 minutes before carving and serve with rice and zhug."
+            ],
+            "tags": [
+                "chicken",
+                "hawaij",
+                "shabbat",
+                "roast"
+            ]
+        },
+        {
+            "id": "zroa-keves",
+            "title": "Slow-Roast Lamb Shoulder",
+            "originalName": "كتف خروف",
+            "description": "A whole shoulder given four low hours until it carves with a spoon.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Zroa_Keves.jpg",
+            "prepTime": 25,
+            "cookTime": 240,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb shoulder",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "onions",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hot water",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Score the fat cap in a criss-cross with a sharp knife, without cutting into the meat.",
+                "Rub hard with hawaij, cumin, crushed garlic, oil and salt. Chill 2 hours.",
+                "Spread roughly cut onion across a deep tin and set the shoulder on it.",
+                "Pour hot water into the base of the tin only — never over the meat — and seal tightly with foil.",
+                "Roast at 150°C for 3½ hours.",
+                "Uncover, raise to 210°C for a final 25 minutes until the surface browns. Serve with the rice that took up the juices."
+            ],
+            "tags": [
+                "lamb",
+                "roast",
+                "festive",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "ktzitzot-temaniyot",
+            "title": "Yemenite Meatballs in Sauce",
+            "originalName": "كفتة يمنية",
+            "description": "Meatballs worked through with coriander and hawaij, simmered in tomato until they drink it in.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Ktzitzot_Temaniyot.jpg",
+            "prepTime": 25,
+            "cookTime": 45,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion, grated",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "breadcrumbs",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Mix beef, grated onion, coriander, hawaij, crumbs and egg and knead by hand for 2 minutes.",
+                "Chill the mixture 20 minutes — a cold meatball holds its shape.",
+                "Roll walnut-sized balls and brown them in hot oil on all sides.",
+                "Lift the meatballs out and cook the grated tomato in the same oil for 10 minutes.",
+                "Return the meatballs to the sauce, cover and simmer 25 minutes over low heat.",
+                "Serve with white rice and red zhug."
+            ],
+            "tags": [
+                "meatballs",
+                "beef",
+                "sauce",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "kavad-of-hawaij",
+            "title": "Chicken Livers with Hawaij",
+            "originalName": "كبد دجاج",
+            "description": "Livers seared fast over high heat with deeply caramelised onion and lemon.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Kavad_Of_Hawaij.jpg",
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "kashered chicken livers",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Dry the livers thoroughly on paper — a wet liver steams instead of searing.",
+                "Caramelise the onion in the oil over medium heat for 15 minutes until deeply brown. Set aside.",
+                "Raise to very high heat and sear the livers 2 minutes a side, no longer.",
+                "Scatter hawaij, salt and pepper and toss for 30 seconds.",
+                "Return the onion, add lemon juice and stir off the heat.",
+                "Serve immediately — livers left waiting turn grainy."
+            ],
+            "tags": [
+                "liver",
+                "chicken",
+                "quick",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "basar-behilbeh",
+            "title": "Beef with Fenugreek",
+            "originalName": "لحم بالحلبة",
+            "description": "Beef in a thick stew that takes its fenugreek edge only at the very end.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Basar_Behilbeh.jpg",
+            "prepTime": 20,
+            "cookTime": 150,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef, cubed",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground fenugreek seed",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                }
+            ],
+            "instructions": [
+                "Soak the ground fenugreek in cold water for 2 hours and drain — soaking draws out the bitterness and leaves the aroma.",
+                "Sear the beef in hot oil over high heat in small batches, never all at once.",
+                "Add onion and garlic and fry 8 minutes, then the tomato and hawaij.",
+                "Add water to partly cover and simmer, covered, 2 hours over low heat.",
+                "Stir in the soaked fenugreek for the last 15 minutes only — long cooking turns it bitter.",
+                "Scatter coriander and serve with rice or lachuch."
+            ],
+            "tags": [
+                "beef",
+                "fenugreek",
+                "stew",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "of-tzalui-shabbat",
+            "title": "Shabbat Chicken with Potatoes",
+            "originalName": "دجاج السبت",
+            "description": "Chicken and potatoes given three hours together, the potatoes taking everything the bird gives up.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Of_Tzalui_Shabbat.jpg",
+            "prepTime": 25,
+            "cookTime": 180,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken, cut in eighths",
+                    "quantity": "1.8",
+                    "unit": "kg"
+                },
+                {
+                    "name": "potatoes, halved",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hot water",
+                    "quantity": "1",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix hawaij, paprika, crushed garlic, oil and salt into a thick paste.",
+                "Toss the chicken and the potatoes in it separately, so both are seasoned.",
+                "Line a tin with onion, then the potatoes, then the chicken on top — so the fat drips downward.",
+                "Pour hot water into the base and seal with foil.",
+                "Bake at 160°C for 2½ hours.",
+                "Uncover and raise to 220°C for 20 minutes until the skin crisps. Serve with zhug."
+            ],
+            "tags": [
+                "chicken",
+                "shabbat",
+                "roast",
+                "potatoes"
+            ]
+        },
+        {
+            "id": "lashon-bakar",
+            "title": "Beef Tongue in Hawaij Sauce",
+            "originalName": "لسان بقر",
+            "description": "Tongue given three hours, peeled hot and sliced thin into a tomato sauce.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Lashon_Bakar.jpg",
+            "prepTime": 30,
+            "cookTime": 210,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "beef tongue",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the tongue in cold water for an hour and scrub well.",
+                "Simmer in water with a whole onion and bay 2½–3 hours until a fork meets no resistance.",
+                "Lift out and peel while it is still very hot — once it cools the skin grips and will not come away.",
+                "Fry the garlic in oil, add grated tomato and hawaij and cook 12 minutes.",
+                "Slice the tongue thin and lay it in the sauce. Cook together 15 minutes.",
+                "Finish with lemon juice and serve with rice."
+            ],
+            "tags": [
+                "tongue",
+                "beef",
+                "festive",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "keves-agvaniyot",
+            "title": "Lamb in Tomato Sauce",
+            "originalName": "لحم ضاني بالطماطم",
+            "description": "Lamb ribs in a long tomato braise with a whole head of garlic that melts into the sauce.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Keves_Agvaniyot.jpg",
+            "prepTime": 20,
+            "cookTime": 135,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "lamb ribs",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "whole head of garlic",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "green chilli",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                }
+            ],
+            "instructions": [
+                "Sear the ribs in hot olive oil 3 minutes a side and set aside.",
+                "Fry the onion in the same oil 8 minutes, add hawaij and stir half a minute.",
+                "Add grated tomato and the whole chilli and cook 10 minutes.",
+                "Return the lamb, add the head of garlic halved across, and water to partly cover.",
+                "Simmer covered 2 hours over low heat, until the garlic melts and the sauce shines.",
+                "Scatter coriander and serve with lachuch for mopping."
+            ],
+            "tags": [
+                "lamb",
+                "tomato",
+                "stew",
+                "garlic"
+            ]
+        },
+        {
+            "id": "tzli-katef",
+            "title": "Braised Beef Shoulder with Hawaij",
+            "originalName": "مشوي كتف",
+            "description": "A whole shoulder braised slowly in onion and served sliced against the grain.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Tzli_Katef.jpg",
+            "prepTime": 20,
+            "cookTime": 200,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole beef shoulder",
+                    "quantity": "1.8",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, thickly sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "allspice berries",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hot water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Dry the joint and sear it in a heavy pot until deeply brown all over — ten patient minutes.",
+                "Lift the meat out and fry the onion in the same fat for 12 minutes until golden.",
+                "Return the joint to sit in the onion and scatter with hawaij, garlic, allspice and salt.",
+                "Add hot water to a third of the joint's height, cover and cook 3 hours at the lowest heat.",
+                "Turn the joint once, halfway through.",
+                "Rest 20 minutes before slicing — a hot joint shreds. Slice against the grain and return to the sauce."
+            ],
+            "tags": [
+                "braise",
+                "beef",
+                "festive",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "of-im-kamun",
+            "title": "Chicken with Cumin and Lemon",
+            "originalName": "دجاج بالكمون",
+            "description": "Chicken legs in a fast pan braise with freshly toasted cumin and a late squeeze of lemon.",
+            "category": "Meats & Poultry",
+            "kosherType": "Meat",
+            "image": "images/Of_Im_Kamun.jpg",
+            "prepTime": 15,
+            "cookTime": 60,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken drumsticks",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "cumin seeds",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Toast the cumin seeds in a dry pan for 90 seconds until fragrant, then grind in a mortar.",
+                "Sear the drumsticks in olive oil over high heat until golden all over.",
+                "Add onion and garlic and fry 8 minutes.",
+                "Scatter in the ground cumin and pepper, add the water and cover.",
+                "Cook 35 minutes over low heat until the meat leaves the bone.",
+                "Uncover, add the lemon juice and reduce 5 minutes. Serve with rice."
+            ],
+            "tags": [
+                "chicken",
+                "cumin",
+                "quick",
+                "lemon"
+            ]
+        },
+        {
+            "id": "zhug-yarok",
+            "title": "Green Zhug",
+            "originalName": "زحوق أخضر",
+            "description": "The sauce on every Yemenite table — coriander, hot chilli and garlic, never cooked.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Zhug_Yarok.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "fresh coriander",
+                    "quantity": "2",
+                    "unit": "bunches"
+                },
+                {
+                    "name": "green chillies",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "cumin seeds",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Wash the coriander and dry it completely — water left on the leaves turns zhug slimy within two days.",
+                "Strip only the thick stems; the thin ones carry flavour.",
+                "Toast the cumin in a dry pan for 60 seconds and grind.",
+                "Pulse coriander, chillies, garlic, cumin, cardamom and salt to a coarse texture — not a purée.",
+                "Add the olive oil in a thin stream with a few more short pulses.",
+                "Jar it, cover with a film of olive oil and keep refrigerated up to two weeks."
+            ],
+            "tags": [
+                "zhug",
+                "hot",
+                "parve",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "zhug-adom",
+            "title": "Red Zhug",
+            "originalName": "زحوق أحمر",
+            "description": "The deeper, smokier version, built on dried red chillies that are soaked first.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Zhug_Adom.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried red chillies",
+                    "quantity": "15",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "coriander seeds",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "caraway seeds",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Soak the dried chillies in hot water 30 minutes until fully soft.",
+                "Drain and strip the stems and seeds — seeds add heat but also bitterness.",
+                "Toast coriander and caraway seeds in a dry pan for 60 seconds and grind in a mortar.",
+                "Blend chillies, garlic, spices and salt into a thick paste.",
+                "Work in the olive oil until the paste is glossy and even.",
+                "Keep in a jar under a film of oil. It deepens after two days."
+            ],
+            "tags": [
+                "zhug",
+                "red",
+                "hot",
+                "parve"
+            ]
+        },
+        {
+            "id": "hilbeh",
+            "title": "Hilbeh",
+            "originalName": "حلبة",
+            "description": "Fenugreek soaked overnight and whipped to a white, airy foam — the crown on every Yemenite soup.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Hilbeh.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground fenugreek seed",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "green chilli",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Soak the ground fenugreek in a cup of cold water overnight. It will swell to double and float.",
+                "Pour off the top water carefully — it carries the bitterness — and add fresh cold water.",
+                "Repeat the change twice more, an hour apart.",
+                "Whip the fenugreek with a fork or mixer for 5–8 minutes until white, light and doubled in volume.",
+                "Blend coriander, garlic, chilli, lemon and salt, and fold in gently.",
+                "Serve at once on hot soup. Refrigerated, it sets and loses its air."
+            ],
+            "tags": [
+                "hilbeh",
+                "soup",
+                "parve",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "hawaij-lemarak",
+            "title": "Hawaij for Soup",
+            "originalName": "حوائج للمرق",
+            "description": "The yellow blend this whole kitchen rests on — toasted and ground fresh.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Hawaij_Lemarak.jpg",
+            "prepTime": 15,
+            "cookTime": 5,
+            "servings": 20,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cumin seeds",
+                    "quantity": "4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coriander seeds",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "black peppercorns",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground turmeric",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "green cardamom",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cloves",
+                    "quantity": "6",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Toast cumin, coriander, peppercorns, cardamom and cloves in a dry pan over medium heat.",
+                "Shake constantly for 3–4 minutes until fragrant and lightly darkened. No further — burnt spice is bitter for good.",
+                "Cool completely on a cold plate before grinding.",
+                "Grind to a fine powder in a spice mill.",
+                "Stir in the ground turmeric — it is not toasted, only blended.",
+                "Keep in a sealed jar in the dark for up to 3 months."
+            ],
+            "tags": [
+                "hawaij",
+                "spice",
+                "parve",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "hawaij-lekafe",
+            "title": "Hawaij for Coffee",
+            "originalName": "حوائج للقهوة",
+            "description": "A completely different blend under the same name — cardamom, ginger and cinnamon, for coffee and baking.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Hawaij_Lekafe.jpg",
+            "prepTime": 10,
+            "cookTime": 3,
+            "servings": 20,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "green cardamom pods",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1.5",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cloves",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "grated nutmeg",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Crack the cardamom pods and take only the black seeds — the husk adds wood, not aroma.",
+                "Toast the cardamom seeds and cloves in a dry pan for 2 minutes only.",
+                "Cool and grind to a fine powder.",
+                "Mix with the ginger, cinnamon and nutmeg.",
+                "Keep in a small sealed jar — a small quantity stays fresher.",
+                "One teaspoon to a pot of coffee, or a tablespoon into bint al-sahn dough."
+            ],
+            "tags": [
+                "hawaij",
+                "coffee",
+                "cardamom",
+                "parve"
+            ]
+        },
+        {
+            "id": "samneh",
+            "title": "Samneh",
+            "originalName": "سمنة",
+            "description": "Clarified butter cooked until the milk solids brown and give it a nutty smell.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Dairy",
+            "image": "images/Samneh.jpg",
+            "prepTime": 10,
+            "cookTime": 45,
+            "servings": 16,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "good butter",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "fenugreek seeds",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fennel seeds",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Melt the butter in a heavy pot over very low heat, without stirring.",
+                "Skim off and discard the white foam that rises in the first ten minutes.",
+                "Keep cooking 30–40 minutes. The milk solids will sink and begin to brown.",
+                "When the liquid turns fully clear and the solids at the bottom are golden-brown, that is the moment. A second too far and it all turns bitter.",
+                "Add fenugreek, turmeric and fennel, stir 30 seconds and take off the heat. The fennel is optional — some households leave it out.",
+                "Strain through fine cloth into a jar. This is a dairy product — any jachnun or kubaneh made with it is dairy."
+            ],
+            "tags": [
+                "samneh",
+                "butter",
+                "dairy",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "limon-kavush",
+            "title": "Yemenite Preserved Lemons",
+            "originalName": "ليمون مخلل",
+            "description": "Lemons cured in salt and hawaij for three weeks until the peel turns soft and translucent.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Limon_Kavush.jpg",
+            "prepTime": 25,
+            "cookTime": 0,
+            "servings": 20,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "small lemons",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried red chillies",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "extra lemon juice",
+                    "quantity": "1",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Scrub the lemons well and cut each into quarters without cutting all the way through.",
+                "Pack coarse salt generously into every cut.",
+                "Press the lemons into a sterilised jar layer by layer, scattering hawaij and chilli between layers.",
+                "Press down firmly until the juice rises. Top up with lemon juice until every lemon is fully covered.",
+                "Seal and leave at room temperature 3–5 days, turning the jar daily.",
+                "Move to the fridge for 3 weeks. Ready when the peel is soft and cuts easily."
+            ],
+            "tags": [
+                "lemon",
+                "preserved",
+                "parve",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "resek-harif",
+            "title": "Hot Tomato Relish",
+            "originalName": "صلصة حارة",
+            "description": "Tomatoes reduced with chilli and hawaij into a thick, dark spread.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Resek_Harif.jpg",
+            "prepTime": 15,
+            "cookTime": 40,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ripe tomatoes",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "red chillies",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for soup",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Score an X in each tomato, blanch 40 seconds and drop into iced water. The skins slip off.",
+                "Chop roughly and drain off some of the liquid — less water, less reducing.",
+                "Fry the garlic and chopped chilli in the olive oil for 3 minutes only.",
+                "Add tomatoes, hawaij, sugar and salt and bring to the boil.",
+                "Reduce over medium-low heat for 35 minutes uncovered, until dark and thick.",
+                "Keep in a jar in the fridge up to 3 weeks."
+            ],
+            "tags": [
+                "relish",
+                "tomato",
+                "hot",
+                "parve"
+            ]
+        },
+        {
+            "id": "salat-agvaniyot-jachnun",
+            "title": "Grated Tomato for Jachnun",
+            "originalName": "سلطة طماطم",
+            "description": "Jachnun's standing companion — coarsely grated tomato, garlic, lemon and oil, and nothing else.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Salat_Agvaniyot_Jachnun.jpg",
+            "prepTime": 10,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "very ripe tomatoes",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Halve the tomatoes and grate them on the coarse side with the skin against your palm — the skin stays in your hand and the flesh falls into the bowl.",
+                "Drain a little liquid if the tomatoes are especially watery.",
+                "Add crushed garlic, cumin and salt and stir.",
+                "Pour in the olive oil and lemon juice and stir again.",
+                "Rest 10 minutes before serving so the flavours meet.",
+                "Serve cold beside jachnun, kubaneh or malawach, always with zhug alongside."
+            ],
+            "tags": [
+                "tomato",
+                "side",
+                "parve",
+                "jachnun"
+            ]
+        },
+        {
+            "id": "shum-velimon",
+            "title": "Garlic and Lemon Sauce",
+            "originalName": "ثوم وليمون",
+            "description": "A sharp emulsion of crushed garlic and lemon, served beside meat to cut it.",
+            "category": "Zhug, Hilbeh & Spices",
+            "kosherType": "Parve",
+            "image": "images/Shum_Velimon.jpg",
+            "prepTime": 10,
+            "cookTime": 0,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "garlic cloves",
+                    "quantity": "12",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "chopped coriander",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Pound the garlic with the coarse salt in a mortar to a completely smooth paste — the salt does the work.",
+                "Add the lemon juice in thirds, mixing well after each.",
+                "Pour in the olive oil in a very thin stream while stirring constantly, as for mayonnaise.",
+                "If it splits, start again with a spoonful of garlic paste and add the split sauce back slowly.",
+                "Fold in the chopped coriander.",
+                "Serve fresh alongside chicken, lamb or roast potatoes."
+            ],
+            "tags": [
+                "garlic",
+                "lemon",
+                "sauce",
+                "parve"
+            ]
+        },
+        {
+            "id": "kahawa-temanit",
+            "title": "Yemenite Coffee",
+            "originalName": "قهوة يمنية",
+            "description": "Coffee with hawaij brought to the edge of boiling three times and never once allowed to boil.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Parve",
+            "image": "images/Kahawa_Temanit.jpg",
+            "prepTime": 5,
+            "cookTime": 10,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "finely ground coffee",
+                    "quantity": "4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hawaij for coffee",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "whole cardamom pods",
+                    "quantity": "2",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Boil the water with the whole cardamom and sugar in a finjan.",
+                "Take it off the heat, add coffee and hawaij and stir once only.",
+                "Return to low heat until the foam climbs to the rim — and lift it off at once.",
+                "Repeat the rise and lift three times. Coffee that actually boils loses its aroma and turns bitter.",
+                "Let it settle for a minute so the grounds sink.",
+                "Pour slowly into small cups without shaking the pot."
+            ],
+            "tags": [
+                "qahwa",
+                "coffee",
+                "cardamom",
+                "yemenite"
+            ]
+        },
+        {
+            "id": "qishr",
+            "title": "Qishr",
+            "originalName": "قشر",
+            "description": "A drink from coffee cherry husks — not coffee, but something between tea and fruit tisane, with ginger.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Parve",
+            "image": "images/Qishr.jpg",
+            "prepTime": 5,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "coffee husks (qishr)",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh ginger, grated",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Rinse the husks in cold water and drain.",
+                "Boil the water with the cinnamon and grated ginger for 5 minutes.",
+                "Add the husks and lower the heat.",
+                "Simmer 10 minutes until the liquid turns amber — never as dark as coffee.",
+                "Add cardamom and sugar and stir until dissolved.",
+                "Strain and serve hot in small glasses. An evening drink, after the meal."
+            ],
+            "tags": [
+                "qishr",
+                "drink",
+                "ginger",
+                "parve"
+            ]
+        },
+        {
+            "id": "te-hawaij",
+            "title": "Hawaij Tea",
+            "originalName": "شاي بالحوائج",
+            "description": "Strong black tea infused with cardamom, ginger and cinnamon, served very sweet.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Parve",
+            "image": "images/Te_Hawaij.jpg",
+            "prepTime": 5,
+            "cookTime": 10,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "black tea",
+                    "quantity": "3",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hawaij for coffee",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh ginger, sliced",
+                    "quantity": "4",
+                    "unit": "slices"
+                },
+                {
+                    "name": "water",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh mint",
+                    "quantity": "4",
+                    "unit": "sprigs"
+                }
+            ],
+            "instructions": [
+                "Boil the water with the ginger slices for 4 minutes.",
+                "Take off the heat and add the black tea and hawaij.",
+                "Cover and steep exactly 4 minutes — longer draws bitter tannins.",
+                "Add sugar and stir until fully dissolved.",
+                "Strain into small glasses and add a mint sprig to each.",
+                "Serve scalding, with jalah or dates alongside."
+            ],
+            "tags": [
+                "tea",
+                "hawaij",
+                "ginger",
+                "parve"
+            ]
+        },
+        {
+            "id": "jalah",
+            "title": "Jalah",
+            "originalName": "جعلة",
+            "description": "A bowl of nuts, seeds and dried fruit set out for every visitor.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Parve",
+            "image": "images/Jalah.jpg",
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "almonds",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "peanuts",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "roasted chickpeas",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pumpkin seeds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dates, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Roast the almonds and peanuts at 160°C for 8–10 minutes, shaking once.",
+                "Cool completely — warm nuts will steam the raisins and make everything stick.",
+                "Toast the pumpkin seeds in a dry pan for 3 minutes until they pop.",
+                "Combine everything with the raisins, chopped dates and roasted chickpeas.",
+                "Scatter cinnamon and salt and toss well.",
+                "Keep in a sealed jar. Serve with coffee or tea."
+            ],
+            "tags": [
+                "jalah",
+                "nuts",
+                "parve",
+                "hospitality"
+            ]
+        },
+        {
+            "id": "tmarim-memulaim",
+            "title": "Walnut-Stuffed Dates",
+            "originalName": "تمر محشي",
+            "description": "Medjool dates filled with spiced walnut and rolled in toasted sesame.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Parve",
+            "image": "images/Tmarim_Memulaim.jpg",
+            "prepTime": 30,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "Medjool dates",
+                    "quantity": "24",
+                    "unit": ""
+                },
+                {
+                    "name": "walnut halves",
+                    "quantity": "24",
+                    "unit": ""
+                },
+                {
+                    "name": "hawaij for coffee",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "toasted sesame seeds",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Slit each date lengthwise with a small knife and lift out the stone without opening it fully.",
+                "Toast the walnut halves 5 minutes at 160°C and cool.",
+                "Toss the walnuts with hawaij and rose water until lightly coated.",
+                "Fill each date with a walnut half and press gently closed.",
+                "Roll the open side in the toasted sesame.",
+                "Arrange in a shallow bowl and serve with coffee."
+            ],
+            "tags": [
+                "dates",
+                "walnuts",
+                "parve",
+                "festive"
+            ]
+        },
+        {
+            "id": "dlaat-mesukeret",
+            "title": "Candied Pumpkin in Syrup",
+            "originalName": "قرع بالعسل",
+            "description": "Pumpkin cubes simmered slowly in sugar syrup until translucent and still holding their shape.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Parve",
+            "image": "images/Dlaat_Mesukeret.jpg",
+            "prepTime": 20,
+            "cookTime": 50,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pumpkin, cubed",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Cut the pumpkin into even 3 cm cubes so they all cook at the same rate.",
+                "Simmer sugar, water, cinnamon and lemon juice for 8 minutes until the syrup begins to thicken.",
+                "Lay the pumpkin in a single layer and drop to the lowest heat.",
+                "Cook 40 minutes without stirring — stir and the cubes collapse. Only shake the pan.",
+                "Add the lemon zest and cook 5 minutes more until the cubes turn translucent.",
+                "Cool completely in the syrup and serve cold with chopped walnuts on top."
+            ],
+            "tags": [
+                "pumpkin",
+                "sweet",
+                "parve",
+                "syrup"
+            ]
+        },
+        {
+            "id": "ugat-tmarim",
+            "title": "Yemenite Date Cake",
+            "originalName": "كعكة التمر",
+            "description": "An oil-and-silan cake spiced with coffee hawaij — parve, and served after meat.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Parve",
+            "image": "images/Ugat_Tmarim.jpg",
+            "prepTime": 25,
+            "cookTime": 45,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pitted dates",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "canola oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "silan (date syrup)",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hawaij for coffee",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "1",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Chop the dates and pour boiling water over them. Rest 15 minutes until fully softened.",
+                "Mash the dates with their soaking liquid into a coarse purée.",
+                "Whisk eggs, oil and silan until smooth.",
+                "Sift flour, baking powder and hawaij and fold in alternately with the date purée.",
+                "Pour into a greased loaf tin and bake at 175°C for 40–45 minutes.",
+                "Test with a skewer — it should come out moist but clean. Cool in the tin 20 minutes before turning out."
+            ],
+            "tags": [
+                "cake",
+                "dates",
+                "parve",
+                "silan"
+            ]
+        },
+        {
+            "id": "halva-temanit",
+            "title": "Yemenite Tahini Halva",
+            "originalName": "حلاوة طحينية",
+            "description": "Raw tahini and sugar syrup worked together and left to set into a crumbling block.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Parve",
+            "image": "images/Halva_Temanit.jpg",
+            "prepTime": 20,
+            "cookTime": 15,
+            "servings": 12,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "raw tahini",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "pistachios, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Mix the raw tahini with the cardamom and warm it slightly — cold tahini will not marry with the syrup.",
+                "Cook sugar, water and lemon juice to 118°C on a sugar thermometer. You cannot do this without one — the temperature decides whether the halva crumbles or stays sticky.",
+                "Pour the hot syrup into the tahini in a thin stream, stirring fast with a spatula.",
+                "Keep stirring 2–3 minutes until the mixture thickens and starts to leave the sides.",
+                "Fold in the pistachios and turn into a small paper-lined tin.",
+                "Press down firmly, set 4 hours at room temperature and cut into cubes."
+            ],
+            "tags": [
+                "halva",
+                "tahini",
+                "parve",
+                "sweet"
+            ]
+        },
+        {
+            "id": "malawach-matok",
+            "title": "Sweet Malawach with Honey",
+            "originalName": "ملوح حلو",
+            "description": "Malawach fried in samneh and served straight away with warm honey and nuts.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Dairy",
+            "image": "images/Malawach_Matok.jpg",
+            "prepTime": 20,
+            "cookTime": 12,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "prepared malawach sheets",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "samneh",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Warm the honey with the cardamom in a small pot over low heat until fully runny. Do not boil it.",
+                "Toast the walnuts in a dry pan for 3 minutes and cool.",
+                "Fry each malawach sheet in a tablespoon of samneh, 3 minutes a side, until golden and separating into layers.",
+                "Move to a plate and pour the warm honey over at once — on cooled malawach the honey just sits on top.",
+                "Scatter with walnuts and cinnamon.",
+                "Serve hot. The samneh makes this dairy — not after a meat meal."
+            ],
+            "tags": [
+                "malawach",
+                "honey",
+                "dairy",
+                "sweet"
+            ]
+        },
+        {
+            "id": "ruz-bechalav-temani",
+            "title": "Cardamom Rice Pudding",
+            "originalName": "أرز بالحليب",
+            "description": "Round rice cooked slowly in milk and cardamom until velvety, served warm with pistachios.",
+            "category": "Sweets & Coffee",
+            "kosherType": "Dairy",
+            "image": "images/Ruz_Bechalav_Temani.jpg",
+            "prepTime": 10,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "milk",
+                    "quantity": "5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "pistachios, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon to serve",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Rinse the rice until the water runs almost clear, but not entirely — some starch is needed for the texture.",
+                "Cook the rice in 2 cups of water for 10 minutes until absorbed.",
+                "Add the milk gradually, a cup at a time, stirring slowly and continuously.",
+                "Cook over low heat 30 minutes, stirring every few minutes so it does not catch.",
+                "Add sugar and cardamom for the last 5 minutes — sugar added early stops the rice softening.",
+                "Off the heat, stir in the rose water and serve warm with pistachios and cinnamon."
+            ],
+            "tags": [
+                "rice",
+                "dairy",
+                "cardamom",
+                "dessert"
+            ]
+        }
+    ]
+}
