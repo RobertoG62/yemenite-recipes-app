@@ -49,6 +49,16 @@ const UI = (() => {
         return KOSHER_BADGES[kosherType] || KOSHER_BADGES['פרווה'];
     }
 
+    // Instruction steps use **bold** to mark the one detail that ruins the dish if
+    // missed. Nothing ever converted it, so every site rendered the asterisks
+    // literally. Escape first, then emphasise — the escape is what makes it safe to
+    // put a converted string back into innerHTML.
+    function mdBold(text) {
+        return String(text)
+            .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+            .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    }
+
     function getDifficultyBadge(difficulty) {
         const map = {
             'קל': 'badge-easy',
@@ -229,7 +239,7 @@ const UI = (() => {
                             ${recipe.instructions.map((step, i) => `
                                 <div class="flex gap-4 items-start">
                                     <div class="step-number">${i + 1}</div>
-                                    <p class="text-ye-charcoal pt-1 leading-relaxed">${step}</p>
+                                    <p class="text-ye-charcoal pt-1 leading-relaxed">${mdBold(step)}</p>
                                 </div>
                             `).join('')}
                         </div>
